@@ -1,0 +1,130 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('img/bg.jpg');
+}
+
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.home{
+    font-size: 48px;
+    padding: 30px;
+    color: white;
+}
+.about{
+    font-size: 30px;
+}
+.about-table{
+    width: 70%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    border-collapse: collapse;
+    background-image: url('img/nama.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+}
+p{
+    font-size: 20px;
+    color: white;
+}
+img{
+    border-radius: 40%;
+}
+.about{
+    padding: 16px;
+    color: white;
+
+}
+
+h3{
+    color: white;
+}
+
+
+footer{
+    padding: 16px;
+    color: white;
+}
+
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+    
+}
+.login-cont {
+    float: right;
+    padding: 14px 16px;
+}
+
+.login {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #6200ff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    width: 130px;
+    height: 40px;
+}
+.title-cont{
+    padding: 16px;
+    width: 100%;
+
+    color: white;
+    background-image: url('img/purple.jpg');
+    
+    
+}
+.btn{
+    float: right;
+    width: 20%;
+}
+
+.home-cont{
+    float: left;
+    padding: 14px 16px;
+}
+.home-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: purple;
+    color: white;
+    padding: 10px 15px;
+    width: 130px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.login:hover {
+    background-color: #4809ac;
+}
+.home-btn:hover{
+    background-color: rgb(75, 8, 75);
+}
+@media screen and (max-width: 800px) {
+    .about-table {
+        display: flex;
+        flex-direction: column ;
+    }
+}
