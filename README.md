@@ -2,12 +2,13 @@
 <br>Nama: Harun Abdulkarim Khafid
 <br>NIM: 121140147
 # link implementasi 
+https://uasharun121140147.000webhostapp.com/
 -----
 login default
 - username: 12345
 - password: 12345
 
-#cara menjalankan website ini
+# cara menjalankan website ini
 - download seluruh file di repositori ini
 - extract file hasil download ke dalam folder C:\xampp\htdocs
 - buka xampp dan nyalakan mysql dan apache
