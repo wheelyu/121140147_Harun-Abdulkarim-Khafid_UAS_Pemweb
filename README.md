@@ -7,7 +7,6 @@ https://uasharun121140147.000webhostapp.com/
 login default
 - username: admin
 - password: 12345
-terdapat halaman buat akun
 -----
 # cara menjalankan website ini
 - download seluruh file di repositori ini
