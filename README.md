@@ -26,8 +26,10 @@ Apa langkah-langkah yang Anda lakukan untuk meng-host aplikasi web Anda?
 - memasukkan database
 
 Pilih penyedia hosting web yang menurut Anda paling cocok untuk aplikasi web Anda. Berikan alasan Anda.<br>
-saya memilih hosting dari 000webhost karena menyediakan hosting gratis dan cocok untuk website dinamis
+- saya memilih hosting dari 000webhost karena menyediakan hosting gratis dan cocok untuk website dinamis
+
 Bagaimana Anda memastikan keamanan aplikasi web yang Anda host?<br>
 - karena ini merupakan hosting gratis, kemungkinan kemanananya akan sangat kecil, tapi saya sudah memasukkan codingan untuk mencegah sql injection pada halaman login
+
 Jelaskan konfigurasi server yang Anda terapkan untuk mendukung aplikasi web Anda.<br>
-memeastikan seluruh aplikasi web berjalan pada penyedia hosting
+- memeastikan seluruh aplikasi web berjalan pada penyedia hosting
