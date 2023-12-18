@@ -17,3 +17,5 @@ login default
 - import database yang ada pada folder C:\xampp\htdocs\uas\database
 - jika sudah, buka vscode dan atur konektivitas pada file process.php
 - lalu buka http://localhost/uas
+-----
+# Hosting
